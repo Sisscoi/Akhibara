@@ -1,5 +1,6 @@
 # Akhibara
-Akhibara is a cybersecurity framework 
+Akhibara is a cybersecurity framework including many tools and features.
+
 
 ## Compilation:
 ### Windows:
