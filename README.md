@@ -10,6 +10,8 @@ Akhibara is a cybersecurity framework including many tools and features.
 
 [The Akhibara's Payloads builder](https://github.com/Sisscoi/Akhibara/blob/main/README.md#akhibarat)
 ### Akhibara-Proxy:
+Allow you to generate and customable proxies servers(JAR)
+You can create your own proxy server using a Builder with integrated GUI
 ### Akhibara-Chat:
 ### AkhibaRAT:
 ## Compilation:
@@ -18,3 +20,4 @@ Go to Akhibara/src/main/java
 
 ## Libraries:
 OpenCSV 
+Swing
