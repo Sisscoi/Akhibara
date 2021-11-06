@@ -1,5 +1,5 @@
 # Akhibara
-Akhibara is a cybersecurity framework including many tools and features.
+Akhibara is a semi-graphical cybersecurity framework including many tools and features.
 ### Tools List:
 
 
