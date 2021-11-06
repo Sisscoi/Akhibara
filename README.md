@@ -6,9 +6,9 @@ Akhibara is a cybersecurity framework including many tools and features.
 ## Tools&Features:
 [The proxy manager](https://github.com/Sisscoi/Akhibara/blob/main/README.md#akhibara-proxy)
 
-[The TCP chatbox between Akhibara users](https://github.com/Sisscoi/Akhibara/blob/main/README.md#akhibara-chat)
-
 [The remote PowerShell Payload](https://github.com/Sisscoi/Akhibara/blob/main/README.md#akhibaremotepw)
+
+[The TCP chatbox between Akhibara users](https://github.com/Sisscoi/Akhibara/blob/main/README.md#akhibara-chat) **(bonus)**
 ### Akhibara-Proxy:
 Allow you to generate and customable proxies servers(JAR)
 You can create your own proxy server using a Builder with integrated GUI
