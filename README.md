@@ -13,7 +13,8 @@ Akhibara is a cybersecurity framework including many tools and features.
 Allow you to generate and customable proxies servers(JAR)
 You can create your own proxy server using a Builder with integrated GUI
 ### Akhibara-Chat:
-### Akhibaremotepw:
+### Akhibara-remote-powershell:
+a TCP reverse shell who allows you to silently execute every powershell command
 ## Compilation:
 ```
 $ javac akhibara.cli/*.java
