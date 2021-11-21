@@ -17,8 +17,7 @@ You can create your own proxy server using a Builder with integrated GUI
 a TCP reverse shell who allows you to silently execute every powershell command
 ## Compilation:
 ```
-$ javac akhibara.cli/*.java
-& javac akhibara.cli/*.java
+$ javac akhibara.cli/*.java && javac akhibara.core.*.java
 ```
 *(if you have difficulties to compile, you can use the officials executables files)* 
 
