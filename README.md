@@ -17,5 +17,8 @@ run setup.bat
 compile the java files using javac or use the already compiled classes (in target folder)
 ```
 
+## Javadoc 
+Im gonna publish some Javadoc for curious people 
+
 # Servers are coming soon!!!!
 ## Actually, the framework works, but the payloads are not available (but you can still use your own java proxy server implementation.
