@@ -9,6 +9,7 @@ import javax.swing.JButton;
 import javax.swing.JFrame;
 import javax.swing.JLabel;
 import javax.swing.JPanel;
+import javax.swing.JOptionPane;
 import javax.swing.JRadioButton;
 import javax.swing.JTextField;
 
@@ -81,6 +82,7 @@ public class Builder extends JFrame {
             		String dest = se.getOutput(4) + "payload/config.txt";
             		l.writeConfig(line, dest);;
             	}
+		else JOptionPane.showMessageDialog(null, "please select the proxy type");
             }
         });
 	}
