@@ -12,7 +12,10 @@ Akhibara is a semi-graphical proxy server manager
 ```
 
 ## Installation 
-run `setup.bat` and compile the project using javac or use the already compiled files in target folder
+```
+run setup.bat
+compile the java files using javac or use the already compiled classes (in target folder)
+```
 
 # Servers are coming soon!!!!
 ## Actually, the framework works, but the payloads are not available (but you can still use your own java proxy server implementation.
