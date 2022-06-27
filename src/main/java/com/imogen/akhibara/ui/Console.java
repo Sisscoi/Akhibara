@@ -61,9 +61,8 @@ public class Console {
 				
 			}
 			
-			else {
-				System.out.println("type \"help\" to get the list of the commands");	
-			}
+			else System.out.println("type \"help\" to get the list of the commands");	
+			
 		}
 		
 	}
